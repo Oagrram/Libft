@@ -17,12 +17,12 @@
 | 2   | ft_bzero    |   | 2   | ft_strjoin       |   | 2   | ft_lstadd_front |
 | 3   | ft_memcpy   |   | 3   | ft_strtrim      |   | 3   | ft_lstsize           |
 | 4   | ft_memccpy |   | 4   | ft_split          |   | 4   | ft_lstlast           |
-| 5   | [ft_memmove](https://github.com/hanshazairi/42-libft/blob/master/ft_memmove.c) |   | 5   | [ft_itoa](https://github.com/hanshazairi/42-libft/blob/master/ft_itoa.c)             |   | 5   | [ft_lstadd_back](https://github.com/hanshazairi/42-libft/blob/master/ft_lstadd_back.c)   |
-| 6   | [ft_memchr](https://github.com/hanshazairi/42-libft/blob/master/ft_memchr.c)   |   | 6   | [ft_strmapi](https://github.com/hanshazairi/42-libft/blob/master/ft_strmapi.c)       |   | 6   | [ft_lstdelone](https://github.com/hanshazairi/42-libft/blob/master/ft_lstdelone.c)       |
-| 7   | [ft_memcmp](https://github.com/hanshazairi/42-libft/blob/master/ft_memcmp.c)   |   | 7   | [ft_putchar_fd](https://github.com/hanshazairi/42-libft/blob/master/ft_putchar_fd.c) |   | 7   | [ft_lstclear](https://github.com/hanshazairi/42-libft/blob/master/ft_lstclear.c)         |
-| 8   | [ft_strlen](https://github.com/hanshazairi/42-libft/blob/master/ft_strlen.c)   |   | 8   | [ft_putstr_fd](https://github.com/hanshazairi/42-libft/blob/master/ft_putstr_fd.c)   |   | 8   | [ft_lstiter](https://github.com/hanshazairi/42-libft/blob/master/ft_lstiter.c)           |
-| 9   | [ft_strlcpy](https://github.com/hanshazairi/42-libft/blob/master/ft_strlcpy.c) |   | 9   | [ft_putendl_fd](https://github.com/hanshazairi/42-libft/blob/master/ft_putendl_fd.c) |   | 9   | [ft_lstmap](https://github.com/hanshazairi/42-libft/blob/master/ft_lstmap.c)             |
-| 10  | [ft_strlcat](https://github.com/hanshazairi/42-libft/blob/master/ft_strlcat.c) |   | 10  | [ft_putnbr_fd](https://github.com/hanshazairi/42-libft/blob/master/ft_putnbr_fd.c)   |   |     |                                                                                          |
+| 5   | ft_memmove |   | 5   | ft_itoa            |   | 5   | ft_lstadd_back   |
+| 6   | ft_memchr   |   | 6   | ft_strmapi       |   | 6   | ft_lstdelone       |
+| 7   | ft_memcmp   |   | 7   | ft_putchar_fd |   | 7   | ft_lstclear         |
+| 8   | ft_strlen   |   | 8   | ft_putstr_fd   |   | 8   | ft_lstiter           |
+| 9   | ft_strlcpy] |   | 9   | ft_putendl_fd |   | 9   | ft_lstmap             |
+| 10  | ft_strlcat |   | 10  | ft_putnbr_fd   |   |     |                                                                                          |
 | 11  | [ft_strchr](https://github.com/hanshazairi/42-libft/blob/master/ft_strchr.c)   |   |     |                                                                                      |   |     |                                                                                          |
 | 12  | [ft_strrchr](https://github.com/hanshazairi/42-libft/blob/master/ft_strrchr.c) |   |     |                                                                                      |   |     |                                                                                          |
 | 13  | [ft_strnstr](https://github.com/hanshazairi/42-libft/blob/master/ft_strnstr.c) |   |     |                                                                                      |   |     |                                                                                          |
