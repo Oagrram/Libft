@@ -23,7 +23,7 @@
 | 8   | ft_strlen   |   | 8   | ft_putstr_fd   |   | 8   | ft_lstiter           |
 | 9   | ft_strlcpy] |   | 9   | ft_putendl_fd |   | 9   | ft_lstmap             |
 | 10  | ft_strlcat |   | 10  | ft_putnbr_fd   |   |     |                                                                                          |
-| 11  | [ft_strchr](https://github.com/hanshazairi/42-libft/blob/master/ft_strchr.c)   |   |     |                                                                                      |   |     |                                                                                          |
+| 11  | ft_strchrc)   |   |     |                                                                                      |   |     |                                                                                          |
 | 12  | [ft_strrchr](https://github.com/hanshazairi/42-libft/blob/master/ft_strrchr.c) |   |     |                                                                                      |   |     |                                                                                          |
 | 13  | [ft_strnstr](https://github.com/hanshazairi/42-libft/blob/master/ft_strnstr.c) |   |     |                                                                                      |   |     |                                                                                          |
 | 14  | [ft_strncmp](https://github.com/hanshazairi/42-libft/blob/master/ft_strncmp.c) |   |     |                                                                                      |   |     |                                                                                          |
